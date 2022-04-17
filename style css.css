@@ -2,10 +2,13 @@ h1 {
 	color:#c0dfef;
 }
 body {
+	
 	background:
 	fixed
 	center / cover
 	url('vrai fond.jpg');
+
+	
 	
 }
 body {
@@ -13,4 +16,8 @@ body {
 }
 h2 {
 	color:#547fad;
+}
+h3 {
+	color:#708090
+	
 }
